@@ -1,0 +1,49 @@
+h1{
+  color:black;
+  font-size:60px;
+}
+h2{
+  color:black;
+  font-size:30px;
+  font-family: 'Butterfly Kids', cursive;
+}
+/* body {
+  background-color: green;
+} */
+body {background-color: rgb(143,188,143);}
+/*h3{
+  style="border: 3px solid Black;"
+}*/
+#abc{
+  border: 3px solid Black;
+
+}
+#asdf{
+  border: 1px solid Black;
+}
+#qwerty{
+  border: 1px solid Black;
+}
+#xyz{
+  border: 1px solid Black;
+}
+#Zuko{
+  height:250px; width:450px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+#Toph{
+  height:250px; width:450px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+#Iroh{
+  /*
+  box-shadow: 5px 5px white; */
+  height:250px; width:450px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+h5{
+  font-size: 20px;
+}
